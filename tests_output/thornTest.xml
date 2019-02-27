@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="thornTest"
+    errors="1" failures="0" hostname="" id="" package="thornTest" skipped="18"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Homepage" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Overview" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Child Pornography" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Child Sex Trafficking " classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Research" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Issue Sextortion" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Overview" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Spotlight" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Safer" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Overview" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Partnerships" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us FAQs" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Get Involved Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Blog Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="We&#39;re Hiring Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

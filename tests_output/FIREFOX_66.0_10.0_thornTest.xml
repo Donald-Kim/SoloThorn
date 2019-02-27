@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="6">
+
+  <testsuite name="thornTest"
+    errors="0" failures="1" hostname="" id="" package="thornTest" skipped="12"
+    tests="6" time="95.13" timestamp="">
+  
+    <testcase name="Homepage" classname="thornTest" time="19.66" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="The Issue Page" classname="thornTest" time="16.86" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="The Issue Overview" classname="thornTest" time="18.68" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="The Issue Child Pornography" classname="thornTest" time="11.38" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="The Issue Child Sex Trafficking " classname="thornTest" time="11.60" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="The Issue Research" classname="thornTest" time="16.94" assertions="1">  <failure message="Timed out while waiting for element &lt;(//li[@class=&#34;menu-item menu-item-type-post_type menu-item-object-page menu-item-2747&#34;])[1]&gt; to be visible for 5000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not visible&#34;[0m">    at Object.The Issue Research (C:\Users\hotti\OneDrive\Desktop\Dev-Mtn\soloThorn\thornTests\thornTest.js:46:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="The Issue Sextortion" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Overview" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Spotlight" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="The Work Safer" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Overview" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us Partnerships" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="About Us FAQs" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Get Involved Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Blog Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="We&#39;re Hiring Page" classname="thornTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
